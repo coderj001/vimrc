@@ -5,6 +5,7 @@
 To Get Similar match vim as shown in picture above
 You need to install few plugin,
 You can use any vim package manager but I have use packloadall(which is vim built-in plugin manager).
+<br />
 Plugins
 
 1. lightline.vim
