@@ -13,3 +13,9 @@ Plugins
 3. xtabline.vim
 
 If you didn't install these plugins then don't uncomment the themes section in vimrc file.
+
+## Install Process
+
+1. Create directory `cd $HOME/.vim/vim-plug/`.
+2. Paste or move all the folder to that path.
+3. Uncomment the line that start with source.
